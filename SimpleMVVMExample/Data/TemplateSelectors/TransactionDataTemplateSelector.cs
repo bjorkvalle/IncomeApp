@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 using System.Windows;
 using System.Windows.Controls;
 
-namespace SimpleMVVMExample.DataTemplates
+namespace SimpleMVVMExample.Data.TemplateSelectors
 {
     class TransactionDataTemplateSelector : DataTemplateSelector
     {

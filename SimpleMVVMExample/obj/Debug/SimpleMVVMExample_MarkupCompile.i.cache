@@ -10,11 +10,11 @@ none
 false
 DEBUG;TRACE
 C:\Users\Eric Björkvall\Dropbox\SystemutvecklingUtbildning\Sidoprojekt\SqliteExperiments\IncomeApp\SimpleMVVMExample\App.xaml
-4840210306
+5-1510110176
 
-26-1196169595
+26-1464923640
 16151840185
-Data\MyResourceDictionary.xaml;Views\HistoryView.xaml;Views\MainWindow.xaml;Views\TransactionView.xaml;
+Data\ResourceDictionaries\DataTemplatesResourceDictionary.xaml;Data\ResourceDictionaries\MyResourceDictionary.xaml;Views\HistoryView.xaml;Views\MainWindow.xaml;Views\TransactionView.xaml;
 
-True
+False
 

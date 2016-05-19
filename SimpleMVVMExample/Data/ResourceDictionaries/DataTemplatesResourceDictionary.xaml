@@ -1,0 +1,23 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:local="clr-namespace:SimpleMVVMExample.Data">
+
+    <SolidColorBrush x:Key="IncomeTxtColor" Color="#FFFFF3A7"/>
+    <SolidColorBrush x:Key="ExpenseTxtColor" Color="Crimson"/>
+    
+    <DataTemplate x:Key="IncomeTempl" DataType="{x:Type local:Transaction}">
+        <StackPanel Orientation="Horizontal">
+            <TextBlock Text="{Binding CashValue}" Foreground="{StaticResource IncomeTxtColor}" Margin="5"/>
+            <TextBlock Text="{Binding Type}" Foreground="{StaticResource IncomeTxtColor}" Margin="5"/>
+            <TextBlock Text="{Binding TransferDate}" Foreground="{StaticResource IncomeTxtColor}" Margin="5"/>
+        </StackPanel>
+    </DataTemplate>
+    
+    <DataTemplate x:Key="ExpenseTempl" DataType="{x:Type local:Transaction}">
+        <StackPanel Orientation="Horizontal">
+            <TextBlock Text="{Binding CashValue}" Foreground="{StaticResource ExpenseTxtColor}" Margin="5"/>
+            <TextBlock Text="{Binding Type}" Foreground="{StaticResource ExpenseTxtColor}" Margin="5"/>
+            <TextBlock Text="{Binding TransferDate}" Foreground="{StaticResource ExpenseTxtColor}" Margin="5"/>
+        </StackPanel>
+    </DataTemplate>
+</ResourceDictionary>
