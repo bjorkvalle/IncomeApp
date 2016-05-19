@@ -22,3 +22,5 @@ C:\Users\Eric Björkvall\Dropbox\SystemutvecklingUtbildning\Sidoprojekt\SqliteEx
 C:\Users\Eric Björkvall\Dropbox\SystemutvecklingUtbildning\Sidoprojekt\SqliteExperiments\IncomeApp\SimpleMVVMExample\bin\Debug\EntityFramework.xml
 C:\Users\Eric Björkvall\Dropbox\SystemutvecklingUtbildning\Sidoprojekt\SqliteExperiments\IncomeApp\SimpleMVVMExample\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\Eric Björkvall\Dropbox\SystemutvecklingUtbildning\Sidoprojekt\SqliteExperiments\IncomeApp\SimpleMVVMExample\obj\Debug\SimpleMVVMExample.Migrations.Init.resources
+C:\Users\Eric Björkvall\Dropbox\SystemutvecklingUtbildning\Sidoprojekt\SqliteExperiments\IncomeApp\SimpleMVVMExample\obj\Debug\App.baml
+C:\Users\Eric Björkvall\Dropbox\SystemutvecklingUtbildning\Sidoprojekt\SqliteExperiments\IncomeApp\SimpleMVVMExample\obj\Debug\Data\MyResourceDictionary.baml

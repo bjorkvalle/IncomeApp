@@ -7,7 +7,7 @@
              mc:Ignorable="d" 
              d:DesignHeight="300" d:DesignWidth="300">
     
-    <Grid Background="#FF292929">
+    <Grid>
         <Grid.RowDefinitions>
             <RowDefinition Height="*"/>
             <RowDefinition Height="auto"/>
@@ -16,11 +16,11 @@
         <StackPanel Grid.Row="0" x:Name="grdCashValue" VerticalAlignment="Center" Margin="5,0">
             <TextBox x:Name="tbxCashInput" Text="{Binding CurrentTransaction.CashValue, Mode=TwoWay}" 
                      FontSize="24" BorderBrush="{x:Null}"
-                     Background="Transparent" Foreground="WhiteSmoke" FontWeight="Bold"
+                     Background="Transparent" Foreground="{StaticResource MainTxtColor}" FontWeight="Bold"
                      HorizontalContentAlignment="Center" HorizontalAlignment="Stretch"
                      VerticalContentAlignment="Center"/>
             <TextBlock Text="{Binding MessageHdlr.Message, Mode=OneWay}"
-                       Background="Transparent" Foreground="#FFFFF3A7"
+                       Background="Transparent" Foreground="{StaticResource ErrorTxtColor}"
                        HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="12"/>
         </StackPanel>
 
@@ -33,13 +33,13 @@
                 <Grid Background="#FF1F951F" Height="70"/>
                 <Button x:Name="btnIncome" Command="{Binding Income}" CommandParameter="" 
                         Background="#FF28C728" Height="60" VerticalAlignment="Top" BorderBrush="Transparent"
-                        Content="INCOME" FontSize="18" Foreground="WhiteSmoke" FontWeight="Bold"/>
+                        Content="INCOME" FontSize="18" Foreground="{StaticResource MainTxtColor}" FontWeight="Bold"/>
             </Grid>
             <Grid Grid.Column="1" x:Name="grdExpense">
                 <Grid Background="#FFA20F2C" Height="70"/>
                 <Button x:Name="btnExpense" Command="{Binding Expense}" CommandParameter="" 
                         Background="Crimson" Height="60" VerticalAlignment="Top" BorderBrush="Transparent"
-                        Content="EXPENSE" FontSize="18" Foreground="WhiteSmoke" FontWeight="Bold"/>
+                        Content="EXPENSE" FontSize="18" Foreground="{StaticResource MainTxtColor}" FontWeight="Bold"/>
             </Grid>
         </Grid>
         

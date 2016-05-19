@@ -37,11 +37,7 @@ namespace SimpleMVVMExample.Data
             using (var db = new TransactionContext())
             {
                 Console.WriteLine("Get data");
-
-                return (T)Convert.ChangeType(db.Set<T>().Find(dataId), typeof(T));
-
-                //var data = db.Set<T>().Find(dataId);
-                //return data;
+                return (T)Convert.ChangeType(db.Set<T>().FindAsync(dataId), typeof(T));
             }
         }
 

@@ -22,19 +22,19 @@
         </DataTemplate>
     </Window.Resources>
 
-    <Grid>
+    <Grid Background="{StaticResource MainBgColor}">
         <Grid.RowDefinitions>
             <RowDefinition Height="auto"/>
             <RowDefinition Height="*"/>
         </Grid.RowDefinitions>
 
-        <StackPanel Grid.Row="0" Orientation="Horizontal" Background="#FF1D1D1D" Height="20">
+        <StackPanel Grid.Row="0" Orientation="Horizontal" Background="{StaticResource NavBgColor}" Height="20">
 
             <Grid x:Name="grdTransaction" Margin="5,0,10,0">
                 <Grid VerticalAlignment="Top"/>
                 <Button Content="| TRANSACTION |" FontSize="10" 
                         Command="{Binding TransactionNavigation}"  CommandParameter=""
-                        Foreground="WhiteSmoke" Background="Transparent" BorderBrush="Transparent"
+                        Foreground="{StaticResource NavTxtColor}" Background="Transparent" BorderBrush="Transparent"
                         HorizontalAlignment="Center" VerticalAlignment="Center"/>
             </Grid>
 
@@ -42,11 +42,11 @@
                 <Grid VerticalAlignment="Top"/>
                 <Button Content="| HISTORY |" FontSize="10" 
                         Command="{Binding HistoryNavigation}" CommandParameter=""
-                        Foreground="WhiteSmoke" Background="Transparent" BorderBrush="Transparent"
+                        Foreground="{StaticResource NavTxtColor}" Background="Transparent" BorderBrush="Transparent"
                         HorizontalAlignment="Center" VerticalAlignment="Center"/>
             </Grid>
         </StackPanel>
 
-        <ContentControl Grid.Row="1" Content="{Binding CurrentViewModel}"></ContentControl>
+        <ContentControl Grid.Row="1" Content="{Binding CurrentViewModel}"/>
     </Grid>
 </Window>

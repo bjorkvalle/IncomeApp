@@ -25,13 +25,14 @@
             </StackPanel>
         </DataTemplate>
         
-        <templates:TransactionDataTemplateSelector x:Key="templateSelector"
-            IncomeTemplate="{StaticResource IncomeTempl}" ExpenseTemplate="{StaticResource ExpenseTempl}">
+        <templates:TransactionDataTemplateSelector x:Key="templateSelector" 
+                                                   IncomeTemplate="{StaticResource IncomeTempl}" 
+                                                   ExpenseTemplate="{StaticResource ExpenseTempl}">
         </templates:TransactionDataTemplateSelector>
     </UserControl.Resources>
     
-    <Grid Background="#FF292929">
-        <ListBox Background="Transparent" BorderBrush="Transparent" 
+    <Grid>
+        <ListBox Background="{x:Null}" BorderBrush="{x:Null}" 
                  ItemTemplateSelector="{StaticResource templateSelector}" ItemsSource="{Binding Transactions}">
         </ListBox>
     </Grid>
