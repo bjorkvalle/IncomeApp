@@ -1,0 +1,46 @@
+﻿added resource dictionary
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch is up-to-date with 'origin/master'.
+#
+# Changes to be committed:
+#	modified:   .vs/IncomeApp/v14/.suo
+#	modified:   .vs/SimpleMVVMExample/SimpleMVVMExample.scgdat
+#	modified:   SimpleMVVMExample/App.xaml
+#	new file:   SimpleMVVMExample/Data/MyResourceDictionary.xaml
+#	modified:   SimpleMVVMExample/Data/Repository.cs
+#	modified:   SimpleMVVMExample/SimpleMVVMExample.csproj
+#	modified:   SimpleMVVMExample/Views/HistoryView.xaml
+#	modified:   SimpleMVVMExample/Views/MainWindow.xaml
+#	modified:   SimpleMVVMExample/Views/TransactionView.xaml
+#	modified:   SimpleMVVMExample/bin/Debug/SimpleMVVMExample.exe
+#	modified:   SimpleMVVMExample/bin/Debug/SimpleMVVMExample.pdb
+#	modified:   SimpleMVVMExample/bin/Debug/SimpleMVVMExample.vshost.exe.config
+#	new file:   SimpleMVVMExample/bin/Debug/SimpleMVVMExample.vshost.exe.manifest
+#	new file:   SimpleMVVMExample/obj/Debug/App.baml
+#	modified:   SimpleMVVMExample/obj/Debug/App.g.cs
+#	modified:   SimpleMVVMExample/obj/Debug/App.g.i.cs
+#	new file:   SimpleMVVMExample/obj/Debug/Data/MyResourceDictionary.baml
+#	modified:   SimpleMVVMExample/obj/Debug/SimpleMVVMExample.csproj.FileListAbsolute.txt
+#	modified:   SimpleMVVMExample/obj/Debug/SimpleMVVMExample.exe
+#	modified:   SimpleMVVMExample/obj/Debug/SimpleMVVMExample.g.resources
+#	modified:   SimpleMVVMExample/obj/Debug/SimpleMVVMExample.pdb
+#	modified:   SimpleMVVMExample/obj/Debug/SimpleMVVMExample_MarkupCompile.cache
+#	modified:   SimpleMVVMExample/obj/Debug/SimpleMVVMExample_MarkupCompile.i.cache
+#	new file:   SimpleMVVMExample/obj/Debug/SimpleMVVMExample_MarkupCompile.i.lref
+#	modified:   SimpleMVVMExample/obj/Debug/SimpleMVVMExample_MarkupCompile.lref
+#	modified:   SimpleMVVMExample/obj/Debug/Views/HistoryView.baml
+#	modified:   SimpleMVVMExample/obj/Debug/Views/HistoryView.g.cs
+#	modified:   SimpleMVVMExample/obj/Debug/Views/HistoryView.g.i.cs
+#	modified:   SimpleMVVMExample/obj/Debug/Views/MainWindow.baml
+#	modified:   SimpleMVVMExample/obj/Debug/Views/MainWindow.g.cs
+#	modified:   SimpleMVVMExample/obj/Debug/Views/MainWindow.g.i.cs
+#	modified:   SimpleMVVMExample/obj/Debug/Views/TransactionView.baml
+#	modified:   SimpleMVVMExample/obj/Debug/Views/TransactionView.g.cs
+#	modified:   SimpleMVVMExample/obj/Debug/Views/TransactionView.g.i.cs
+#
+# Untracked files:
+#	e14hryss.sjr.txt
+#
+
