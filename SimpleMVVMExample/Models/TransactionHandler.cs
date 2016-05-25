@@ -1,10 +1,9 @@
-﻿using System;
+﻿using SimpleMVVMExample.Data;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using SimpleMVVMExample.Data;
-using SimpleMVVMExample.Enums;
 using TransactionClassLib;
 using TransactionClassLib.Enums;
 

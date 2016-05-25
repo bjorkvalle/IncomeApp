@@ -24,7 +24,6 @@ namespace SimpleMVVMExample
         public MainWindow()
         {
             InitializeComponent();
-            Console.WriteLine(Repository<Transaction>.GetInstance().GetAll().First().ToString());
         }
     }
 }

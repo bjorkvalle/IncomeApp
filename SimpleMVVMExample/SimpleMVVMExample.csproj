@@ -70,7 +70,6 @@
     <Compile Include="Data\TemplateSelectors\TransactionDataTemplateSelector.cs" />
     <Compile Include="Data\Repository.cs" />
     <Compile Include="Data\Transaction.cs" />
-    <Compile Include="Data\TransactionContext.cs" />
     <Compile Include="Enums\TransactionType.cs" />
     <Compile Include="Interfaces\IRepository.cs" />
     <Compile Include="Models\MessageHandler.cs" />

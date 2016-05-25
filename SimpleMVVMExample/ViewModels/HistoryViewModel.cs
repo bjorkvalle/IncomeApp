@@ -1,4 +1,5 @@
 ﻿//using SimpleMVVMExample.Data;
+using SimpleMVVMExample.Data;
 using System;
 using System.Collections.ObjectModel;
 using System.Linq;
