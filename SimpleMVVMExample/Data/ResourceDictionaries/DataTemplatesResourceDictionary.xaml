@@ -1,6 +1,6 @@
 ﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
                     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-                    xmlns:local="clr-namespace:SimpleMVVMExample.Data">
+                    xmlns:local="clr-namespace:TransactionClassLib;assembly=TransactionClassLib">
 
     <SolidColorBrush x:Key="IncomeTxtColor" Color="#FFFFF3A7"/>
     <SolidColorBrush x:Key="ExpenseTxtColor" Color="Crimson"/>

@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace SimpleMVVMExample.Enums
 {
-    public enum TransactionType
-    {
-        Income,
-        Expense
-    }
+    //public enum TransactionType
+    //{
+    //    Income,
+    //    Expense
+    //}
 }

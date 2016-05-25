@@ -7,6 +7,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Input;
+using TransactionClassLib;
+using TransactionClassLib.Enums;
 
 namespace SimpleMVVMExample.ViewModels
 {

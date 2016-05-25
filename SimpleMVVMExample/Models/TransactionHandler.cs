@@ -5,6 +5,8 @@ using System.Text;
 using System.Threading.Tasks;
 using SimpleMVVMExample.Data;
 using SimpleMVVMExample.Enums;
+using TransactionClassLib;
+using TransactionClassLib.Enums;
 
 namespace SimpleMVVMExample.Models
 {

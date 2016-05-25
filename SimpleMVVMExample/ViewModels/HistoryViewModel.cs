@@ -1,7 +1,8 @@
-﻿using SimpleMVVMExample.Data;
+﻿//using SimpleMVVMExample.Data;
 using System;
 using System.Collections.ObjectModel;
 using System.Linq;
+using TransactionClassLib;
 
 namespace SimpleMVVMExample.ViewModels
 {
@@ -17,7 +18,7 @@ namespace SimpleMVVMExample.ViewModels
         private void LoadTransactions()
         {
             Transactions = new ObservableCollection<Transaction>();
-            Repository<Transaction>.GetInstance().GetList().Reverse().Take(5).ToList().ForEach(t => Transactions.Add(t));
+            Repository<Transaction>.GetInstance().GetAll().Reverse().Take(5).ToList().ForEach(t => Transactions.Add(t));
         }
     }
 }

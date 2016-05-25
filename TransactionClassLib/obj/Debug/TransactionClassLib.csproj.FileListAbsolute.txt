@@ -1,0 +1,10 @@
+C:\Users\Eric Björkvall\Dropbox\SystemutvecklingUtbildning\Sidoprojekt\SqliteExperiments\IncomeApp\TransactionClassLib\bin\Debug\TransactionClassLib.dll.config
+C:\Users\Eric Björkvall\Dropbox\SystemutvecklingUtbildning\Sidoprojekt\SqliteExperiments\IncomeApp\TransactionClassLib\bin\Debug\TransactionClassLib.dll
+C:\Users\Eric Björkvall\Dropbox\SystemutvecklingUtbildning\Sidoprojekt\SqliteExperiments\IncomeApp\TransactionClassLib\bin\Debug\TransactionClassLib.pdb
+C:\Users\Eric Björkvall\Dropbox\SystemutvecklingUtbildning\Sidoprojekt\SqliteExperiments\IncomeApp\TransactionClassLib\bin\Debug\EntityFramework.dll
+C:\Users\Eric Björkvall\Dropbox\SystemutvecklingUtbildning\Sidoprojekt\SqliteExperiments\IncomeApp\TransactionClassLib\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Eric Björkvall\Dropbox\SystemutvecklingUtbildning\Sidoprojekt\SqliteExperiments\IncomeApp\TransactionClassLib\bin\Debug\EntityFramework.xml
+C:\Users\Eric Björkvall\Dropbox\SystemutvecklingUtbildning\Sidoprojekt\SqliteExperiments\IncomeApp\TransactionClassLib\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Eric Björkvall\Dropbox\SystemutvecklingUtbildning\Sidoprojekt\SqliteExperiments\IncomeApp\TransactionClassLib\obj\Debug\TransactionClassLib.csprojResolveAssemblyReference.cache
+C:\Users\Eric Björkvall\Dropbox\SystemutvecklingUtbildning\Sidoprojekt\SqliteExperiments\IncomeApp\TransactionClassLib\obj\Debug\TransactionClassLib.dll
+C:\Users\Eric Björkvall\Dropbox\SystemutvecklingUtbildning\Sidoprojekt\SqliteExperiments\IncomeApp\TransactionClassLib\obj\Debug\TransactionClassLib.pdb

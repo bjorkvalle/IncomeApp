@@ -7,8 +7,8 @@ using System.Threading.Tasks;
 
 namespace SimpleMVVMExample.Data
 {
-    public class TransactionContext : DbContext
-    {
-        public DbSet<Transaction> Transactions { get; set; }
-    }
+    //public class TransactionContext : DbContext
+    //{
+    //    public DbSet<Transaction> Transactions { get; set; }
+    //}
 }

@@ -6,6 +6,8 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows;
 using System.Windows.Controls;
+using TransactionClassLib;
+using TransactionClassLib.Enums;
 
 namespace SimpleMVVMExample.Data.TemplateSelectors
 {
@@ -18,7 +20,7 @@ namespace SimpleMVVMExample.Data.TemplateSelectors
         {
             Transaction transaction = item as Transaction;
 
-            if (transaction.Type == Enums.TransactionType.Income)
+            if (transaction.Type == TransactionType.Income)
                 return IncomeTemplate;
             else
                 return ExpenseTemplate;

@@ -1,0 +1,12 @@
+C:\Users\Eric Björkvall\Dropbox\SystemutvecklingUtbildning\Sidoprojekt\SqliteExperiments\IncomeApp\TestClassLibraryEF\bin\Debug\TestClassLibraryEF.exe.config
+C:\Users\Eric Björkvall\Dropbox\SystemutvecklingUtbildning\Sidoprojekt\SqliteExperiments\IncomeApp\TestClassLibraryEF\bin\Debug\TestClassLibraryEF.exe
+C:\Users\Eric Björkvall\Dropbox\SystemutvecklingUtbildning\Sidoprojekt\SqliteExperiments\IncomeApp\TestClassLibraryEF\bin\Debug\TestClassLibraryEF.pdb
+C:\Users\Eric Björkvall\Dropbox\SystemutvecklingUtbildning\Sidoprojekt\SqliteExperiments\IncomeApp\TestClassLibraryEF\bin\Debug\EntityFramework.xml
+C:\Users\Eric Björkvall\Dropbox\SystemutvecklingUtbildning\Sidoprojekt\SqliteExperiments\IncomeApp\TestClassLibraryEF\obj\Debug\TestClassLibraryEF.csprojResolveAssemblyReference.cache
+C:\Users\Eric Björkvall\Dropbox\SystemutvecklingUtbildning\Sidoprojekt\SqliteExperiments\IncomeApp\TestClassLibraryEF\obj\Debug\TestClassLibraryEF.exe
+C:\Users\Eric Björkvall\Dropbox\SystemutvecklingUtbildning\Sidoprojekt\SqliteExperiments\IncomeApp\TestClassLibraryEF\obj\Debug\TestClassLibraryEF.pdb
+C:\Users\Eric Björkvall\Dropbox\SystemutvecklingUtbildning\Sidoprojekt\SqliteExperiments\IncomeApp\TestClassLibraryEF\bin\Debug\TransactionClassLib.dll
+C:\Users\Eric Björkvall\Dropbox\SystemutvecklingUtbildning\Sidoprojekt\SqliteExperiments\IncomeApp\TestClassLibraryEF\bin\Debug\TransactionClassLib.pdb
+C:\Users\Eric Björkvall\Dropbox\SystemutvecklingUtbildning\Sidoprojekt\SqliteExperiments\IncomeApp\TestClassLibraryEF\bin\Debug\EntityFramework.dll
+C:\Users\Eric Björkvall\Dropbox\SystemutvecklingUtbildning\Sidoprojekt\SqliteExperiments\IncomeApp\TestClassLibraryEF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Eric Björkvall\Dropbox\SystemutvecklingUtbildning\Sidoprojekt\SqliteExperiments\IncomeApp\TestClassLibraryEF\bin\Debug\EntityFramework.SqlServer.xml
